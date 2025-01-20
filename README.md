@@ -19,7 +19,6 @@ This is a simple Go program that uses the [Jikan API](https://jikan.moe) to fetc
 2. Initialize and download dependencies:
    ```bash
    go mod init jikan_filler_fetcher
-   go mod tidy
    ```
 
 ## Usage
