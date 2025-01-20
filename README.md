@@ -13,8 +13,8 @@ This is a simple Go program that uses the [Jikan API](https://jikan.moe) to fetc
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Vedant9500/anime_filler_list_api
-   cd anime_filler_list_api
+   git clone https://github.com/Vedant9500/Jikan_Filler_Fetcher
+   cd Jikan_Filler_Fetcher
    ```
 2. Initialize and download dependencies:
    ```bash
