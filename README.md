@@ -51,8 +51,6 @@ Episode 97: Kidnapped! Naruto's Hot Spring Adventure!
 ## Notes
 - Some episodes may not have accurate filler status if the anime data is incomplete on MyAnimeList.
 
-## Contributing
-Feel free to open issues or submit pull requests if you'd like to improve this project.
 
 ## Acknowledgments
 - [Jikan API](https://jikan.moe) for providing the data.
